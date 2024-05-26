@@ -36,6 +36,7 @@ const Navbar = () => {
   }, []);
 
   const NavItems = (
+    // Navigation Links 
     <>
       <li>
         {/* <a href="/">Home</a> */}
